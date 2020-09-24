@@ -1,0 +1,16 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+<form class="card" method="POST" action="/alunos">
+    <section 
+        class="avatar" 
+        style="background: url({{ aluno.avatar_url }}) no-repeat center center / cover"></section>
+    <section class="details">
+
+        <h3>Novo Aluno</h3>
+
+         {% include 'alunos/fields.njk' %}
+
+    </section>
+</form>
+{% endblock content %}

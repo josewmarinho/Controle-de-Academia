@@ -1,0 +1,53 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1582852629342-6f4726a22637?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Jose Wellington Porto Marinho Junior",
+      "email": "josewellingtonjunior@hotmail.com",
+      "birth": 957225600000,
+      "gender": "M",
+      "blood": "O0",
+      "weight": "63",
+      "height": "172"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1583307709663-e50f72fb7c2b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "name": "Pedro Bruno",
+      "birth": 567993600000,
+      "gender": "M",
+      "services": "Crossfit, musculação",
+      "created_at": 1596094037205
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1582852629342-6f4726a22637?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Constantino",
+      "birth": 743385600000,
+      "services": "Natação, Musculação",
+      "created_at": 1596094144738,
+      "gender": "M"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1584863528123-65b675cc9009?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+      "name": "Natasha Andrade",
+      "birth": 794102400000,
+      "gender": "F",
+      "services": "Crossfit, Natação, Musculação, Boxes",
+      "created_at": 1596094169930
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1584380663336-4cf2c885008b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=687&q=80",
+      "name": "Mychelly",
+      "birth": 704764800000,
+      "gender": "F",
+      "services": "Crossfit, musculação",
+      "created_at": 1596151311535
+    }
+  ]
+}
